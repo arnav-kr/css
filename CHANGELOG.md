@@ -1,5 +1,13 @@
 # @primer/css
 
+## 17.3.1
+
+### Patch Changes
+
+- [#1472](https://github.com/primer/css/pull/1472) [`8541ed1d`](https://github.com/primer/css/commit/8541ed1db1e0d9c4551ea76ba400d6d0cf682897) Thanks [@simurai](https://github.com/simurai)! - Use variable for the active border of the UnderlineNav
+
+* [#1452](https://github.com/primer/css/pull/1452) [`8838a3ac`](https://github.com/primer/css/commit/8838a3ac48ec1589594291313349f49737317b5d) Thanks [@mktcode](https://github.com/mktcode)! - Division using / is deprecated. Replaced it with multiplications.
+
 ## 17.3.0
 
 ### Minor Changes
